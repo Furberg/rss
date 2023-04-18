@@ -2,22 +2,22 @@
 <rss version="2.0">
     <channel>
         <title>Trygge och Trivas podcast</title>
-        <link>https://www.dropbox.com/sh/smx356gh1d8elmo/AACuym_04ZCOpx1Eq0s9frIya?dl=0</link>
+        <link>https://www.dropbox.com/sh/smx356gh1d8elmo/AACuym_04ZCOpx1Eq0s9frIya</link>
         <language>sv-SE</language>
         <copyright>© 2023 Triva Skolor</copyright>
         <description>I Trygge och Trivas podcast får du följa med Trygge och Triva på deras äventyr!</description>
         <image>
             <url>https://www.trivaskolor.se/images/triva-halv.webp</url>
             <title>Trygge och Trivas podcast</title>
-            <link>https://www.dropbox.com/sh/smx356gh1d8elmo/AACuym_04ZCOpx1Eq0s9frIya?dl=0</link>
+            <link>https://www.dropbox.com/sh/smx356gh1d8elmo/AACuym_04ZCOpx1Eq0s9frIya</link>
         </image>
         <!-- Här lägger du till information om varje enskilt avsnitt -->
         <item>
             <title>Hisspitch</title>
-            <link>https://www.dropbox.com/s/h6s9t1kvadrfdb8/Hisspitch%20klar.mp3?dl=0</link>
+            <link>https://www.dropbox.com/s/h6s9t1kvadrfdb8/Hisspitch%20klar.mp3</link>
             <description>Hisspitch Trygge och Triva i omklädningsrummet.</description>
-            <enclosure url="https://www.dropbox.com/s/h6s9t1kvadrfdb8/Hisspitch%20klar.mp3?dl=0" length="1673834" type="audio/mpeg" />
-            <guid>https://www.dropbox.com/s/h6s9t1kvadrfdb8/Hisspitch%20klar.mp3?dl=0</guid>
+            <enclosure url="https://www.dropbox.com/s/h6s9t1kvadrfdb8/Hisspitch%20klar.mp3" length="1673834" type="audio/mpeg" />
+            <guid>https://www.dropbox.com/s/h6s9t1kvadrfdb8/Hisspitch%20klar.mp3</guid>
             <pubDate>Tue, 18 Apr 2023 12:30:00 GMT</pubDate>
         </item>
 
